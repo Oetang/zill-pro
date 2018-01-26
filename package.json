@@ -1,0 +1,23 @@
+{
+  "name": "zill-pro",
+  "version": "1.0.0",
+  "description": "oetang for zill",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-sass": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oetang/zill-pro.git"
+  },
+  "author": "oetang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oetang/zill-pro/issues"
+  },
+  "homepage": "https://github.com/Oetang/zill-pro#readme"
+}
